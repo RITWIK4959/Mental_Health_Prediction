@@ -44,7 +44,7 @@ Run the app with:
 streamlit run app.py
 ```
 You may need to adjust the entry point if your main script is named differently.
----
+
 ## Configuration
 To change the prediction model, replace best_model.pkl in the model/ folder.
 
