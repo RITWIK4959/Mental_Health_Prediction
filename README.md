@@ -9,7 +9,6 @@ A Python-based web application that helps assess mental health-related workplace
 - **Interactive UI**: Built with Streamlit to collect user responses through radio buttons and dropdowns.
 - **ML Model Integration**: Uses a Decision Tree Classifier trained on mental health survey data.
 - **Real-Time Prediction**: Instantly provides feedback based on inputs.
-- **Extensible Pipeline**: Easily update the model or input logic to enhance prediction accuracy.
 - **Fully in Python**: The entire codebase is written in Python for accessibility and flexibility.
 
 ---
